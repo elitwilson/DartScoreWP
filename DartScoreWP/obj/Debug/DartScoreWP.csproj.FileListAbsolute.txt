@@ -1,0 +1,17 @@
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\DartScoreWP.dll
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\DartScoreWP.pdb
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\AppManifest.xaml
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\DartScoreWP.xap
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\obj\Debug\App.g.i.cs
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\obj\Debug\DartScoreWP.g.resources
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\obj\Debug\DartScoreWP.dll
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\obj\Debug\DartScoreWP.pdb
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\obj\Debug\XapCacheFile.xml
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\Images\ApplicationIcon.png
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\Images\Background.png
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\obj\Debug\MainPage.g.i.cs
+c:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\DartScoreWP\obj\Debug\NewPlayer.g.i.cs

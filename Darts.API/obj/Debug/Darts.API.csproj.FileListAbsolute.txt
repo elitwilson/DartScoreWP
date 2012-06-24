@@ -1,0 +1,15 @@
+c:\users\twaggoner\documents\visual studio 2010\Projects\Darts.API\Darts.API\obj\Debug\ResolveAssemblyReference.cache
+c:\users\twaggoner\documents\visual studio 2010\Projects\Darts.API\Darts.API\bin\Debug\Darts.API.dll
+c:\users\twaggoner\documents\visual studio 2010\Projects\Darts.API\Darts.API\bin\Debug\Darts.API.pdb
+c:\users\twaggoner\documents\visual studio 2010\Projects\Darts.API\Darts.API\obj\Debug\Darts.API.dll
+c:\users\twaggoner\documents\visual studio 2010\Projects\Darts.API\Darts.API\obj\Debug\Darts.API.pdb
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\Darts\Darts.API\bin\Debug\Darts.API.dll
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\Darts\Darts.API\bin\Debug\Darts.API.pdb
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\Darts\Darts.API\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\Darts\Darts.API\obj\Debug\Darts.API.dll
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\Darts\Darts.API\obj\Debug\Darts.API.pdb
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\Darts.API\bin\Debug\Darts.API.dll
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\Darts.API\bin\Debug\Darts.API.pdb
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\Darts.API\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\Darts.API\obj\Debug\Darts.API.dll
+C:\Users\McArlo\Documents\Visual Studio 2010\Projects\DartScoreWP\Darts.API\obj\Debug\Darts.API.pdb
